@@ -7,5 +7,5 @@ void loop() {
   x = analogRead(A0);//Reading value from Potentiometer
   x/=4;
   Serial.print(x);
-  delay(1000);
+  delay(1000);//abc
 }
