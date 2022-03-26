@@ -18,5 +18,16 @@ The purpose of technology is to make our lives comfortable. It is important to d
 Most of the sensors we used were not IIC Sensors so we used attiny85 between microcontroller and sensor to act as a secondary coltroller and cover the digital data to IIC.
 ![iic](https://user-images.githubusercontent.com/93503745/160242074-2e50605e-d6fe-4f79-bf85-1e94fcbc11e1.png)
 - Protocol for Gateway to Server Communication is MQTT.
-### Sensor Interfacing and PCB Layouts
+### Hardware Implementation
+Sensors used:
+- Current Sensor ACS712
+- Temperature Sensor LM35
+- Humidty Sensor DHT-11
+- Ultrasonic Sensor HC-SR04
+#### PCB Layouts
+![image](https://user-images.githubusercontent.com/93503745/160242750-7864d42c-1d42-4b8a-90b1-ad54e8712d3b.png)
+![image](https://user-images.githubusercontent.com/93503745/160242820-55e2f950-8458-42ee-98f6-f1da138d6fd5.png)
+![image](https://user-images.githubusercontent.com/93503745/160242847-a051a703-b177-46e4-874b-0c6976809fcc.png)
+
 ### Local vs Cloud Servers
+We have tried both Local and Cloyd Servers for implementing this project. But, in order to cut time in designing the GUI to go with our Local Server, we opted for the platform Blynk, which has its own cloud server. 
