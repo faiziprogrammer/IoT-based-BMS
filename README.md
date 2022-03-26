@@ -9,11 +9,7 @@ As this project is huge, we are currently focusing on implementing a Water Manag
 - [Sensor Interfacing and PCB Layouts](#Sensor-Interfacing-and-PCB-Layouts)
 - [Local vs Cloud Servers](#Local-vs-Cloud-Servers)
 ## Methodology
- ```md
-    ![alt text](
-IoT-based-BMS/Project-Block-Diagram/bd.png)
-    
-    ```
+https://github.com/faiziprogrammer/IoT-based-BMS/issues/15#issue-1181761989
 ## Components and Protocols
 ## Sensor Interfacing and PCB Layouts
 ## Local vs Cloud Servers
