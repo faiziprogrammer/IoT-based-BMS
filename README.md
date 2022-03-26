@@ -1,5 +1,5 @@
-# IoT-based-BMS
-Creating an intelligent BMS using Esp8266 for its wifi features.
+# Towards Intlligent Remote Building Management System
+The goal of this project is to make an Artifficialy Intelligent Building Management System that monitors and manages parameters like Temperature, Humidity, Presuure, Power Consumption of Devices and Controls Actuators, Lighting etc through Mobile Application/Website, using IoT Technology.
 Master Slave Communication
 ## Slave Code
 For secondary microcontroller. Takes analog input and sends it to main microcontroller using IIC pins.
