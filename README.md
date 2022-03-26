@@ -10,7 +10,9 @@ As this project is huge, we are currently focusing on implementing a Water Manag
 - [Local vs Cloud Servers](#Local-vs-Cloud-Servers)
 ## Methodology
  ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](
+IoT-based-BMS/Project-Block-Diagram/bd.png)
+    
     ```
 ## Components and Protocols
 ## Sensor Interfacing and PCB Layouts
