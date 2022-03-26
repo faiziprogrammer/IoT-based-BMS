@@ -6,6 +6,7 @@ As this project is huge, we are currently focusing on implementing a Water Manag
 ## Table of Contents
 - [Methodology](#Methodology)
 - [Components and Protocols](#Components and Protocols)
+- [Components and Protocols](#Components and Protocols)
 - [Sensor Interfacing and PCB Layouts](#Sensor Interfacing and PCB Layouts)
 - [Local vs Cloud Servers](#Local vs Cloud Servers)
 ## Methodology
