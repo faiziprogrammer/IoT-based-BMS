@@ -13,5 +13,10 @@ The purpose of technology is to make our lives comfortable. It is important to d
 ### Methodology
 ![bd](https://user-images.githubusercontent.com/93503745/160241451-a8d96461-17f2-41ff-9a2a-8567d1191779.png)
 ### Components and Protocols
+- Microcontroller used in this Project is: Lolin d1 mini Pro, which has an ESP8266 module.
+- Communication Protocol used between sensors and controller is IIC.
+Most of the sensors we used were not IIC Sensors so we used attiny85 between microcontroller and sensor to act as a secondary coltroller and cover the digital data to IIC.
+![iic](https://user-images.githubusercontent.com/93503745/160242074-2e50605e-d6fe-4f79-bf85-1e94fcbc11e1.png)
+- Protocol for Gateway to Server Communication is MQTT.
 ### Sensor Interfacing and PCB Layouts
 ### Local vs Cloud Servers
