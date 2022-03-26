@@ -5,10 +5,9 @@ As this project is huge, we are currently focusing on implementing a Water Manag
 - Problem Statement: “Implement a Building Management System that monitors the fluid level using ultrasonic and flow rate sensors. Also monitor the humidity and temperature of the building, and power ratings of the devices. Implement the whole system through the Internet of Things technology and create an easy-to-use graphical user interface.”
 ## Table of Contents
 - [Methodology](#Methodology)
-- [abcd](#abcd)
-- [Components and Protocols](#Components and Protocols)
-- [Credits](#credits)
-- [License](#license)
+- [Components and Protocols](#Components-and-Protocols)
+- [Sensor Interfacing and PCB Layouts](#Sensor-Interfacing-and-PCB-Layouts)
+- [Local vs Cloud Servers](#Local-vs-Cloud-Servers)
 ## Methodology
 ## abcd
 ## Components and Protocols
