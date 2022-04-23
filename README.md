@@ -24,6 +24,7 @@ Sensors used:
 - Temperature Sensor LM35
 - Humidty Sensor DHT-11
 - Ultrasonic Sensor HC-SR04
+- Flow Rate Sensor FY-B10
 #### PCB Layouts
 ![image](https://user-images.githubusercontent.com/93503745/160242750-7864d42c-1d42-4b8a-90b1-ad54e8712d3b.png)
 ![image](https://user-images.githubusercontent.com/93503745/160242820-55e2f950-8458-42ee-98f6-f1da138d6fd5.png)
